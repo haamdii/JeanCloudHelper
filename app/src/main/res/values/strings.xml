@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jean-Cloud Helper</string>
+    <string name="email">email</string>
+    <string name="mot_de_passe">mot de passe</string>
+    <string name="connexion">Connexion</string>
+    <string name="creation_d_un_compe">Creation d\'un compte</string>
+    <string name="creation">Creation</string>
+</resources>

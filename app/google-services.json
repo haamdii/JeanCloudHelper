@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396143339738",
+    "firebase_url": "https://jeancloudhelper.firebaseio.com",
+    "project_id": "jeancloudhelper",
+    "storage_bucket": "jeancloudhelper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396143339738:android:cb072875a6cfb9402c5de3",
+        "android_client_info": {
+          "package_name": "com.example.dhiyabh.jean_cloudhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396143339738-7t6bv11j0bs9phj5p3k9rh44jcmm35q7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhiyabh.jean_cloudhelper",
+            "certificate_hash": "feee9be41dcee1ce6aaac2be3fbc9306d3bc5d52"
+          }
+        },
+        {
+          "client_id": "396143339738-r0gjef24t6nnqlu1tvp8d7rq0540blhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4pPt0f55dj57AcstfacOz4jLKL3jFIH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396143339738-r0gjef24t6nnqlu1tvp8d7rq0540blhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
