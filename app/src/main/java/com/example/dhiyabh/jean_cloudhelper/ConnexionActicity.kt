@@ -56,7 +56,7 @@ class ConnexionActicity : AppCompatActivity() {
 
         private fun updateUI(currentUser: FirebaseUser?){
             if(currentUser!=null){
-                startActivity(Intent(this,AppActivity::class.java))
+                startActivity(Intent(this,Espace::class.java))
                 finish()
             }else{
                 Toast.makeText(baseContext, "Connexion echoué.",
