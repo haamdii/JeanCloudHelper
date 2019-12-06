@@ -5,4 +5,6 @@
     <string name="connexion">Connexion</string>
     <string name="creation_d_un_compe">Creation d\'un compte</string>
     <string name="creation">Creation</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
 </resources>
